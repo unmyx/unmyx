@@ -47,7 +47,7 @@ Data migration pipeline that processes legacy CSV and Excel exports, standardize
 **Technologies:** Python, Pandas, PostgreSQL, Data Migration
 
 ### 5. Automated Data Collection Pipeline
-[View repository](https://github.com/unmyx/adcp)
+[View repository](https://github.com/unmyx/automated-data-collection-pipeline)
 
 Automated data ingestion system that collects hourly weather data from a public API and stores it in PostgreSQL, with validation and reliable ingestion workflows.
 
